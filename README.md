@@ -8,8 +8,8 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop](./images/image-header-desktop.jpg)
-![mobile](./images/image-mobile-desktop.jpg)
+![desktop](./screenshots/desktop.png)
+![mobile](./screenshots/mobile.png)
 
 
 
@@ -33,9 +33,6 @@ Users should be able to:
 ### What I learned
 
 I practiced my css skills. I created a neat looking structure by working with flex with two separate containers.
-
-
-
 
 
 ## Author
