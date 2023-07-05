@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/card-companent-with-sass-jjI_JWXX9p)
-- Live Site URL: [Live Site](https://unaygney.github.io/cardCompanent/)
+- Solution URL: [https://www.frontendmentor.io/solutions/card-companent-with-sass-jjI_JWXX9p](https://www.frontendmentor.io/solutions/card-companent-with-sass-jjI_JWXX9p)](https://www.frontendmentor.io/solutions/card-companent-with-sass-jjI_JWXX9p)
+- Live Site URL: [https://unaygney.github.io/cardCompanent/](https://unaygney.github.io/cardCompanent/)
 
 ## My process
 
